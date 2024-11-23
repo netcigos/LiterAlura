@@ -32,16 +32,14 @@ Hace uso de las api https://gutendex.com/ para la consulta de libros .
    git clone https://github.com/netcigos/LiterAlura.git
 
 2. Build en IDE de desarrollo .
-## Pantallas 
-Principal
-![principal](https://github.com/user-attachments/assets/9ec69531-7d91-4d32-a0c4-90b3af243ec1)
-Busqueda Libro Api
-![busquedalibro](https://github.com/user-attachments/assets/33d07ed5-15e4-4640-8a0e-54b085769be3)
-Lista de libros registrados
-![lirbosregistrados](https://github.com/user-attachments/assets/25b118b6-cd04-4198-b11a-3151bc59ca21)
-Lista de autores registrados
-![autoresregistrados](https://github.com/user-attachments/assets/84c3e9a3-7e82-4af4-8c3e-62f1e3004482)
-Lista de autores vivos
-![autoresvivos](https://github.com/user-attachments/assets/940e6297-f365-4e90-b8a9-547204eac8e5)
-Lista de libros por idioma
-![idioma](https://github.com/user-attachments/assets/58a828ae-5329-4962-ab10-2b51145994d1)
+## Pantallas
+
+| Pantalla                      | Vista                                                                                   |
+|-------------------------------|-----------------------------------------------------------------------------------------|
+| Principal                     | ![Principal](https://github.com/user-attachments/assets/9ec69531-7d91-4d32-a0c4-90b3af243ec1) |
+| Búsqueda Libro API            | ![Búsqueda Libro](https://github.com/user-attachments/assets/33d07ed5-15e4-4640-8a0e-54b085769be3) |
+| Lista de libros registrados   | ![Libros Registrados](https://github.com/user-attachments/assets/25b118b6-cd04-4198-b11a-3151bc59ca21) |
+| Lista de autores registrados  | ![Autores Registrados](https://github.com/user-attachments/assets/84c3e9a3-7e82-4af4-8c3e-62f1e3004482) |
+| Lista de autores vivos        | ![Autores Vivos](https://github.com/user-attachments/assets/940e6297-f365-4e90-b8a9-547204eac8e5) |
+| Lista de libros por idioma    | ![Idiomas](https://github.com/user-attachments/assets/58a828ae-5329-4962-ab10-2b51145994d1) |
+
